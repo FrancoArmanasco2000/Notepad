@@ -2,37 +2,38 @@
 
 ¡Bienvenido a mi proyecto de Notepad desarrollado en React con Vite! Esta aplicación te permite crear, editar y eliminar notas de una manera sencilla y elegante.
 
-## Características
+## 🎨 Características
 
 - **Crear notas:** Utiliza el botón "Nueva Nota" para agregar una nueva nota. Llena el formulario con el título, contenido y color de tu elección, luego haz clic en "Agregar".
 - **Editar notas:** Haz clic en una nota existente para editar su título, contenido o color.
 - **Eliminar notas:** Utiliza el icono del 🗑️ en cada nota para eliminarla de tu lista.
 
-## Capturas de pantalla
+## 🖼️ Capturas de pantalla
 
 ![Notepad](screenshots/notepad.png)
 
-## Tecnologías utilizadas
+## 🛠️ Tecnologías utilizadas
 
 - **React:** Utilizamos React para la interfaz de usuario dinámica y reactiva.
 - **Vite:** Una herramienta de compilación rápida para aplicaciones web modernas. Nos proporciona un entorno de desarrollo rápido con recarga en caliente.
 - **CSS:** Estilos personalizados para una apariencia atractiva y responsive.
 - **LocalStorage:** Almacenamiento local para persistir las notas en el navegador del usuario.
 
-## Instalación y Uso
+## ⚙️ Instalación y Uso
 
 1. Clona este repositorio en tu máquina local utilizando `git clone`.
 2. Navega al directorio del proyecto e instala las dependencias con `npm install`.
 3. Inicia la aplicación con `npm run dev`.
 4. Abre tu navegador y ve a `http://localhost:3000` para ver la aplicación.
 
-## Construcción para producción
+## 🚀 Construcción para producción
 
 Si deseas construir la aplicación para producción, puedes usar el siguiente comando:
 
+
 Esto generará una versión optimizada de la aplicación en el directorio `dist`.
 
-## Contribución
+## 💡 Contribución
 
 ¡Las contribuciones son bienvenidas! Si deseas contribuir a este proyecto, sigue estos pasos:
 
@@ -42,7 +43,7 @@ Esto generará una versión optimizada de la aplicación en el directorio `dist`
 4. Sube tus cambios a tu repositorio en GitHub (`git push origin feature/nueva-funcionalidad`).
 5. Abre un Pull Request en este repositorio.
 
-## Contacto
+## 📧 Contacto
 
 Si tienes alguna pregunta o sugerencia sobre este proyecto, no dudes en contactarme:
 
@@ -51,4 +52,5 @@ Si tienes alguna pregunta o sugerencia sobre este proyecto, no dudes en contacta
 - Twitter: [@tu_usuario](https://twitter.com/tu_usuario)
 
 ¡Gracias por tu interés en mi proyecto!
+
 
