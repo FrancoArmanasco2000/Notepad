@@ -4,7 +4,7 @@
 
 ## 🎨 Características
 
-- **Crear notas:** Utiliza el botón "Nueva Nota" para agregar una nueva nota. Llena el formulario con el título, contenido y color de tu elección, luego haz clic en "Agregar".
+- **Crear notas:** Utiliza el botón "+" para agregar una nueva nota. Llena el formulario con el título, contenido y color de tu elección, luego haz clic en "Agregar".
 - **Editar notas:** Haz clic en una nota existente para editar su título, contenido o color.
 - **Eliminar notas:** Utiliza el icono del 🗑️ en cada nota para eliminarla de tu lista.
 
@@ -17,19 +17,16 @@
 - **React:** Utilizamos React para la interfaz de usuario dinámica y reactiva.
 - **Vite:** Una herramienta de compilación rápida para aplicaciones web modernas. Nos proporciona un entorno de desarrollo rápido con recarga en caliente.
 - **CSS:** Estilos personalizados para una apariencia atractiva y responsive.
-- **LocalStorage:** Almacenamiento local para persistir las notas en el navegador del usuario.
 
 ## ⚙️ Instalación y Uso
 
 1. Clona este repositorio en tu máquina local utilizando `git clone`.
 2. Navega al directorio del proyecto e instala las dependencias con `npm install`.
 3. Inicia la aplicación con `npm run dev`.
-4. Abre tu navegador y ve a `http://localhost:3000` para ver la aplicación.
 
 ## 🚀 Construcción para producción
 
-Si deseas construir la aplicación para producción, puedes usar el siguiente comando:
-
+Si deseas construir la aplicación para producción, puedes usar el siguiente comando: `npm run build`
 
 Esto generará una versión optimizada de la aplicación en el directorio `dist`.
 
@@ -47,9 +44,8 @@ Esto generará una versión optimizada de la aplicación en el directorio `dist`
 
 Si tienes alguna pregunta o sugerencia sobre este proyecto, no dudes en contactarme:
 
-- Correo electrónico: tu_correo@example.com
-- LinkedIn: [Tu Nombre](https://www.linkedin.com/in/tu_nombre/)
-- Twitter: [@tu_usuario](https://twitter.com/tu_usuario)
+- Correo electrónico: programmingarmanasco@gmail.com
+- LinkedIn: [Franco Armanasco](https://www.linkedin.com/in/francoarmanasco/)
 
 ¡Gracias por tu interés en mi proyecto!
 
