@@ -10,7 +10,7 @@
 
 ## 🖼️ Capturas de pantalla
 
-![Notepad](screenshots/image1)
+![Notepad](screenshots/image1.jpg)
 
 ## 🛠️ Tecnologías utilizadas
 
