@@ -13,7 +13,6 @@
 ![Notepad](screenshots/image1.jpg)
 ![Notepad](screenshots/image2.jpg)
 ![Notepad](screenshots/image3.jpg)
-![Notepad](screenshots/image4.jpg)
 
 ## 🛠️ Tecnologías utilizadas
 
